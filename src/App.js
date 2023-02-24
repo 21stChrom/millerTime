@@ -1,11 +1,6 @@
 import React from "react";
 import "./style.css";
-
-
-
- when it goes off
-
- import React, { Component, useState } from 'react'; 
+ import React, { useState } from 'react'; 
  import { StyleSheet, View, TextInput, CheckBox, Button, Text } from 'react-native';
 
  const myChecklist = () => {
